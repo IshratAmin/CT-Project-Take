@@ -1,0 +1,375 @@
+/*
+
+	Author :Ishrat Amin
+	Address: 
+	Website: 
+	Email  : 
+	Version: 1.0
+
+*/
+
+
+/***********
+
+Global CSS
+
+
+**********/
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+	
+	}
+
+.center{
+	margin:0 auto;
+	display: block;
+}
+.no-padding{
+	padding: 0px;
+}
+
+
+****/
+
+
+/***********
+
+First Body part css
+
+
+**********/
+
+.first-body{
+	
+	background: url(../images/banner.png) no-repeat center;
+	background-size: cover;
+	background-color: pink;
+	height: 650px;
+	padding: 0px;
+
+	
+}
+.logo{
+	padding-top: 20px;
+	float: center;
+}
+
+.picture-perfect-text{
+	padding-top: 280px;
+	padding-left: 0px;
+
+}
+.picture-perfect-text h1{
+	font-weight: 100;
+
+
+}
+
+.picture-perfect-text p{
+
+	padding-top: 30px;
+	font-size: 12px;
+}
+.i-phone{
+	padding-top: 70px;
+	padding-right: 0px;
+
+}
+
+/***********
+
+Start Something New Part part css
+
+
+**********/
+
+.left-text h1{
+	font-weight: 100;
+	padding-bottom: 20px;
+	padding-top: 0px;
+	color: #000;
+
+}
+.left-text p{
+	line-height: 30px;
+	color: #959595;
+}
+
+.right-text p{
+	line-height: 30px;
+	padding-top: 45px;
+	color: #959595;
+
+}
+
+/***********
+
+boxgrif part css
+
+
+**********/
+.boxgrid{
+	
+	padding-top: 120px;
+	height: 650px;
+	position: relative;
+	overflow: hidden;
+	
+	
+}
+
+.boxgrid-1{
+	height: 325px;
+
+}
+.box-grid-2nd{
+	height: 325px;
+	padding-top: 0;
+}
+.box-grid-1{
+	background-color: #f5989d;
+	color: #fff;
+}
+
+.box-grid-2{
+	background-color: #615f7d;
+	color: #fff;
+}
+
+}
+.box-grid-3{
+	background-color: navy;
+	color: #fff;
+
+}
+.box-grid-4{
+	background-color: #bd8cbf;
+	color: #fff;
+	}
+.box-grid-2nd{
+	height: 325px;
+	padding-top: 0px;
+	float: top;
+}
+.box-grid-5{
+	background-color: #37b9de;
+	color: #fff;
+	height: 325px;
+
+}
+.box-grid-6{
+	background-color: #82ca9c;
+	color: #fff;
+	height: 325px;
+	}
+
+
+.box-grid-7{
+	background-color: #a0d0d4;
+	color: #fff;
+	height: 325px;
+	
+
+}
+
+/***********
+
+a details look at Part part css
+
+
+**********/
+
+.details-para-part{
+	height: 300px;
+
+}
+
+.a-look-at .details-part h1{
+	padding-top: 120px;
+	padding-bottom: 50px;
+	color: #67676d;
+}
+
+.details-para-part .details-para h5{
+	color: #67676d;
+}
+/***********
+
+morepower part css
+
+
+**********/
+.morepower-part{
+	background: url(car.png) no-repeat center;
+	background-size: cover;
+	height: 650px;
+	display: block;
+	color: white;
+}
+
+.more-power-text{
+	padding-top: 250px;
+	padding-left: 150px;
+	line-height: 30px;
+}
+.more-power-text h1{
+	font-weight: normal;
+	padding-bottom: 30px;
+	color: #fff;
+}
+/***********
+
+Reason to get part css
+
+
+**********/
+
+.reason-box{
+	height: 538px;
+	background-color: #82ca9c;
+}
+
+.reason-text{
+	padding: 0px;
+	color: #fff;
+}
+
+.reason-text h1{
+	padding-top: 50px;
+	padding-bottom: 35px;
+
+}
+
+
+/***********
+
+Go-solo team part css
+
+
+**********/
+
+.go-solo-team{
+	height: 540px;
+	background-color: white;
+}
+
+.go-solo-team-text{
+	padding-top: 80px;
+}
+
+
+
+
+.go-solo .basic-button{
+	background-color: #e1e1e1;
+	border: none;
+	color: #fff;
+	border-radius: 5px;
+	padding: 30 20px;	
+}
+.go-solo ul{
+	list-style: none;
+	padding-left: 0px;
+	padding-top: 25px; 
+}
+
+.go-solo ul li{
+	display: inline;
+	padding: 9px;
+	}
+.go-solo-team .apple{
+	color: #e1e1e1;
+
+}
+
+.go-solo-team .windows{
+	color: #e1e1e1;
+}
+
+.go-solo-team .buy-button{
+	background-color: #82ca9c;
+	color: white;
+	border-radius: 5px;
+	padding: 5px;
+
+}
+.team-plan .basic-button{
+	background-color: #bd8cbf;
+	border: none;
+	color: #fff;
+	border-radius: 5px;
+	padding: 30 20px;	
+}
+
+.team-plan ul{
+	list-style: none;
+
+	padding-left: 0px;
+	padding-top: 25px; 
+}
+
+.team-plan ul li{
+	display: inline;
+	padding: 9px;
+	}
+.team-plan .apple{
+	color: #e1e1e1;
+
+}
+
+.team-plan .windows{
+	color: #e1e1e1;	
+}
+
+/***********
+
+get in touch part css
+
+
+**********/
+.get-in-touch{
+	height: 540px;
+	background-color: #192431;
+	color: white;
+	padding-top: 80px;
+
+}
+
+.get-in-touch-text{
+	padding-top: 50px;
+}
+
+.get-in-touch-text .touch-right{
+	float: right;
+	padding-top: 0px;
+	padding-left: 80px;
+
+
+}
+.touch-right p{
+	font-size: 12px;
+	color: #57697f;
+
+}
+.touch-row{
+	float: left;
+	padding-top: 45px;
+}
+.touch-row .three-row ul{
+	list-style: none;
+}
+/***********
+
+a details look at Part part css
+
+
+**********/
+.footer{
+	background-color: #192431;
+	color: white; 
+}
+/*****************************
+   Media query 
+******************************/
