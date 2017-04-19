@@ -48,12 +48,14 @@ First Body part css
 	background-color: pink;
 	height: 650px;
 	padding: 0px;
+	position: relative;
 
 	
 }
 .logo{
 	padding-top: 20px;
 	float: center;
+	position:absolute;
 }
 
 .picture-perfect-text{
@@ -75,6 +77,7 @@ First Body part css
 .i-phone{
 	padding-top: 70px;
 	padding-right: 0px;
+	position:absolute;
 
 }
 
